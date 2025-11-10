@@ -74,7 +74,7 @@ O código da solução está em [347.TopKFrequentElements.py](./exercicios/347.T
 
 O código da solução está em [Q44.NumberofPairsSatisfyingInequality.py](./exercicios/Q44.NumberofPairsSatisfyingInequality.py).
 
-# [Exercício 621](https://leetcode.com/problems/task-scheduler/description/)
+# [Exercício 912](https://leetcode.com/problems/task-scheduler/description/)
 
 **Nível:** Médio (Medium)
 
