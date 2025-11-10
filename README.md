@@ -1,11 +1,9 @@
 # Dividir e Conquistar
 
-**Número da Lista**: 4 
-**Conteúdo da Disciplina**: FGA0124 - PROJETO DE ALGORITMOS - T01  
-
+**Número da Lista**: 4
+**Conteúdo da Disciplina**: FGA0124 - PROJETO DE ALGORITMOS - T01
 
 ## Alunos
-
 
 <div align="center">
 <table>
@@ -26,20 +24,19 @@
 </table>
 </div>
 
-| Matrícula   | Aluno                        |
-| ----------- | ---------------------------- |
-| 22/1037803  | Letícia Kellen Ramos Paiva   |
-| 19/0101091  | Yago Amin Santos             |
-
+| Matrícula  | Aluno                      |
+| ---------- | -------------------------- |
+| 22/1037803 | Letícia Kellen Ramos Paiva |
+| 19/0101091 | Yago Amin Santos           |
 
 ## Sobre
 
 Foram escolhidos 4 exercícios da plataforma **LeetCode**, relacionados ao conteúdo de **Dividir e Conquistar**:
 
-- **2 exercícios de nível difícil**  
-- **2 exercícios de nível médio**  
+- **2 exercícios de nível difícil**
+- **2 exercícios de nível médio**
 
-A divisão foi feita da seguinte forma: cada integrante da dupla ficou responsável por **1 exercício de nível médio** e **1 exercício de nível difícil**.  
+A divisão foi feita da seguinte forma: cada integrante da dupla ficou responsável por **1 exercício de nível médio** e **1 exercício de nível difícil**.
 
 ---
 
@@ -47,59 +44,69 @@ A divisão foi feita da seguinte forma: cada integrante da dupla ficou responsá
 
 # [Exercício 347](https://leetcode.com/problems/top-k-frequent-elements?envType=problem-list-v2&envId=divide-and-conquer)
 
-
-**Nível:**  Médio 
+**Nível:** Médio
 
 ## Descrição
+
 ![Descrição](./assets/descrição347.png)
 
 ## Solução
+
 ![Solução](./assets/solução347.png)
 
 ## Código
+
 O código da solução está em [347.TopKFrequentElements.py](./exercicios/347.TopKFrequentElements.py).
 
 # [Exercício 347](https://leetcode.com/problems/number-of-pairs-satisfying-inequality?envType=problem-list-v2&envId=divide-and-conquer)
 
-
-**Nível:**  Díficil 
+**Nível:** Díficil
 
 ## Descrição
+
 ![Descrição](./assets/descriçãoQ44.png)
 
 ## Solução
+
 ![Solução](./assets/soluçãoQ44.png)
 
 ## Código
+
 O código da solução está em [Q44.NumberofPairsSatisfyingInequality.py](./exercicios/Q44.NumberofPairsSatisfyingInequality.py).
 
 # [Exercício 621](https://leetcode.com/problems/task-scheduler/description/)
 
-**Nível:**  Médio (Medium)
+**Nível:** Médio (Medium)
 
 ## Descrição
-![Descrição](./assets/descrição621.png)
+
+![Descrição](./assets/descrição912.png)
 
 ## Solução
-![Solução](./assets/solução621.png)
+
+![Solução](./assets/solução912.png)
 
 ## Código
-O código da solução está em [exercício621.py](./exercicios/exercício.py).
 
-# [Exercício 1383](https://leetcode.com/problems/maximum-performance-of-a-team/description/)
+O código da solução está em [exercício912.py](./exercicios/exercício912.py).
 
-**Nível:**  Difícil (Hard)
+# [Exercício 4](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
+
+**Nível:** Difícil (Hard)
 
 ## Descrição
-![Descrição](./assets/descrição1383.png)
+
+![Descrição](./assets/descrição4.png)
 
 ## Solução
-![Solução](./assets/solução1383.png)
+
+![Solução](./assets/solução4.png)
 
 ## Código
-O código da solução está em [exercício1383.py](./exercicios/exercício.py).
 
-##  Vídeo Apresentação
+O código da solução está em [exercício4.py](./exercicios/exercício4.py).
+
+## Vídeo Apresentação
 
 Neste vídeo, apresentamos a explicação e a solução dos exercícios escolhidos.
 
