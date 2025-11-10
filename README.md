@@ -57,21 +57,21 @@ A divisão foi feita da seguinte forma: cada integrante da dupla ficou responsá
 ![Solução](./assets/solução347.png)
 
 ## Código
-O código da solução está em [exercício881.py](https://leetcode.com/problems/pizza-with-3n-slices?envType=problem-list-v2&envId=greedy).
+O código da solução está em [347.TopKFrequentElements.py](./exercicios/347.TopKFrequentElements.py).
 
-# [Exercício 1388](https://leetcode.com/problems/xxxxx)
+# [Exercício 347](https://leetcode.com/problems/number-of-pairs-satisfying-inequality?envType=problem-list-v2&envId=divide-and-conquer)
 
 
 **Nível:**  Díficil 
 
 ## Descrição
-![Descrição](./assets/descrição1388.png)
+![Descrição](./assets/descriçãoQ44.png)
 
 ## Solução
-![Solução](./assets/solução1388.png)
+![Solução](./assets/soluçãoQ44.png)
 
 ## Código
-O código da solução está em [exercício1388.py](./exercicios/exercício1388.py).
+O código da solução está em [Q44.NumberofPairsSatisfyingInequality.py](./exercicios/Q44.NumberofPairsSatisfyingInequality.py).
 
 # [Exercício 621](https://leetcode.com/problems/task-scheduler/description/)
 
