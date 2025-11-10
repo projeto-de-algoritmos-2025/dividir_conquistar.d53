@@ -58,7 +58,7 @@ A divisão foi feita da seguinte forma: cada integrante da dupla ficou responsá
 
 O código da solução está em [347.TopKFrequentElements.py](./exercicios/347.TopKFrequentElements.py).
 
-# [Exercício 347](https://leetcode.com/problems/number-of-pairs-satisfying-inequality?envType=problem-list-v2&envId=divide-and-conquer)
+# [Exercício Q44](https://leetcode.com/problems/number-of-pairs-satisfying-inequality?envType=problem-list-v2&envId=divide-and-conquer)
 
 **Nível:** Díficil
 
