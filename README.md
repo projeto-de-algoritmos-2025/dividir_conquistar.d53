@@ -45,16 +45,16 @@ A divisão foi feita da seguinte forma: cada integrante da dupla ficou responsá
 
 ## Exercícios Resolvidos
 
-# [Exercício 881](https://leetcode.com/problems/boats-to-save-people?envType=problem-list-v2&envId=greedy)
+# [Exercício 347](https://leetcode.com/problems/top-k-frequent-elements?envType=problem-list-v2&envId=divide-and-conquer)
 
 
 **Nível:**  Médio 
 
 ## Descrição
-![Descrição](./assets/descriçao881.png)
+![Descrição](./assets/descrição347.png)
 
 ## Solução
-![Solução](./assets/soluçao881.png)
+![Solução](./assets/solução347.png)
 
 ## Código
 O código da solução está em [exercício881.py](https://leetcode.com/problems/pizza-with-3n-slices?envType=problem-list-v2&envId=greedy).
