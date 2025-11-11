@@ -110,4 +110,4 @@ O código da solução está em [exercício4.py](./exercicios/exercício4.py).
 
 Neste vídeo, apresentamos a explicação e a solução dos exercícios escolhidos.
 
-**Link do Vídeo:** [Clique aqui](https://youtu.be/njLSp18Zl-E)
+**Link do Vídeo:** [Clique aqui](https://youtu.be/f5th9GgSFCw)
